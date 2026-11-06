@@ -1,3 +1,5 @@
+![Salwan Sabil — Computer Science & Artificial Intelligence](./salwan-banner.gif)
+
 # Hi, I'm Salwan Sabil
 
 I'm a graduate student pursuing an M.S. in Computer Science and Artificial Intelligence at Boston University, with an expected graduation in Spring 2028. I earned my B.S. in Computer Science with a minor in Mathematics from the University of Massachusetts Lowell in 2025.
