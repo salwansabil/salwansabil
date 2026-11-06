@@ -39,4 +39,5 @@ A Unity and C# racing game where elementary school students answer subject-based
 
 ## Contact
 
+[Resume](./Salwan_Sabil_Resume.pdf)
 [Email](mailto:sabilsalwan@gmail.com)
